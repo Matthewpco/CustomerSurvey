@@ -1,8 +1,8 @@
 
 
-![](https://gist.githubusercontent.com/Matthewpco/e8adc9e1ccd04fe4826811f4ae882a1c/raw/5100fb280c7eb69cfda21e22c8343bda828fd5d5/satsurvey.png)
+![](https://raw.githubusercontent.com/Matthewpco/CustomerSurvey/master/CustomerSurveyPNG.png)
 
-# This is a Responsive Customer Satisfaction Survey  Web form. 
+# This is a Responsive Customer Satisfaction Survey HTML form. 
 
 <br>
 
