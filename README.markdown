@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ Introduction 
 
-- This is a responsive web form built with HTML 5 CSS 3 and responsive handicap accessability. 
+- This is a responsive web form built for a large dealership with HTML 5 CSS 3 and responsive handicap accessability. 
 
 <br>
 
